@@ -16,4 +16,4 @@ A simple Android app to track and improve your sleep patterns.
 ## Installation
 1. Clone the repo:
 
-[git clone] (https://github.com/yourname/sleep-tracker.git)
+[git clone](https://github.com/yourname/sleep-tracker.git)

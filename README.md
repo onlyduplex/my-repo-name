@@ -2,6 +2,7 @@
 ---
 
 ### ✅ Example Template
+---
 
 ```markdown
 # Sleep Tracker App
